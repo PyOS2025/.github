@@ -41,7 +41,7 @@ PyOS is an ambitious long-term project to build a complete, bootable operating s
 
 ##  Community
 
-- Follow us on [Bluesky]([https://discord.gg/PyOS(https://bsky.app/profile/pyos2025.bsky.social)) 
+- Follow us on [Bluesky](https://bsky.app/profile/pyos2025.bsky.social))
 - Follow us on [Telegram](https://t.me/PyOS2025)
 ---
 
